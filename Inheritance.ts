@@ -38,7 +38,8 @@ class Teacher extends Person {
     }
 };
 
-const teacher = new Teacher("Yeasin", 30, "BD", "");
+const teacher = new Teacher("Yeasin", 30, "BD", "TEACHER");
+
 
 
 
